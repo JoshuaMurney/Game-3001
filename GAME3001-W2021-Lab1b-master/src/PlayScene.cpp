@@ -80,6 +80,8 @@ void PlayScene::GUI_Function() const
 	// Always open with a NewFrame
 	ImGui::NewFrame();
 
+	//Test
+
 	// See examples by uncommenting the following - also look at imgui_demo.cpp in the IMGUI filter
 	//ImGui::ShowDemoWindow();
 	
